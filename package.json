@@ -1,15 +1,14 @@
 {
   "name": "lista-de-libros",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/jimeneza14/r2",
+  "homepage": "https://jimeneza14.github.io/r2/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "prerelease": "npm run build",
