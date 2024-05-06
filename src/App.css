@@ -1,0 +1,102 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: #ddd;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+h3 {
+  padding-left: 50px;
+}
+
+.container {
+  display: flex;
+  background-color: #fff;
+}
+
+.column {
+  flex: 1;
+  display: ruby-text;
+  white-space: nowrap;
+  overflow: hidden;
+  overflow-x: auto;
+}
+
+.bolder {
+  border-right: double;
+}
+
+.card {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 0px 20px;
+  margin: 0px 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  width: 200px;
+}
+
+.card-title {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.card-description {
+  font-size: 10px;
+
+}
+
+.card-body p {
+  margin: 0px;
+  padding: 0px;
+  font-size: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card img {
+  position: relative;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+.card img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.more button {
+  font-size: 0.7em;
+  font-weight: 900;
+  padding: 0.50em;
+}
+
+.fas {
+  position: absolute;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.5);
+  /* Agrega un fondo blanco semitransparente */
+  padding: 5px;
+  border-radius: 50%;
+  /* Opcional: añade un radio para un aspecto redondeado */
+
+  font-size: 1rem;
+  color: blue;
+}
+
+.Available {
+  right: 0;
+}
+
+.Read {
+  left: 0px;
+}
