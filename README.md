@@ -9,4 +9,5 @@ Implementar una pequeña aplicación de lista de libros utilizando el framework 
 6. Sincronización entre Pestañas.
 
 Preview:  
-![Lista e lecturas](https://github.com/jimeneza14/r2/assets/5090471/02c3eb4a-9dfb-4a7e-b699-5a8445fc62af)
+![Lista e lecturas](https://github.com/jimeneza14/r2/assets/5090471/02c3eb4a-9dfb-4a7e-b699-5a8445fc62af)  
+[Live Demo](https://jimeneza14.github.io/r2/)
