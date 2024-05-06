@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jimeneza14/r2/static/css/main.2543181d.css",
+    "main.js": "/jimeneza14/r2/static/js/main.a4ccabdf.js",
+    "index.html": "/jimeneza14/r2/index.html",
+    "main.2543181d.css.map": "/jimeneza14/r2/static/css/main.2543181d.css.map",
+    "main.a4ccabdf.js.map": "/jimeneza14/r2/static/js/main.a4ccabdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543181d.css",
+    "static/js/main.a4ccabdf.js"
+  ]
+}
