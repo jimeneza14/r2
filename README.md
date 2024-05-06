@@ -1,4 +1,5 @@
-Implementar una pequeña aplicación de lista de libros utilizando el framework de React. [anchor](https://enlace.tld "Live Demo")
+# Lista de lecturas  
+Implementar una pequeña aplicación de lista de libros para la lectura utilizando el framework de React.
 
 # Funcionalidades:
 1. Visualización de Libros Disponibles.
