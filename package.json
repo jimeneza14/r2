@@ -2,6 +2,7 @@
   "name": "lista-de-libros",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/jimeneza14/r2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/user-event": "^13.5.0",
@@ -11,6 +12,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "prerelease": "npm run build",
+    "release": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -35,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "@testing-library/react": "^15.0.6",
     "jest": "^27.5.1"
   }
